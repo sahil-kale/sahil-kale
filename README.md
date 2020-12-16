@@ -10,4 +10,4 @@ Some of the projects that you can find on here include:
 - A discord bot with over 300+ users that I led and managed the development of
 
 Outside of code, I love to go flying and share the thrill of flight with friends. At the moment, I'm working on my Soaring Association of Canada Bronze Badge to work on cross-country gliding!<br/>
-⚡ Fun fact: I learned how to fly airplanes before I learned how to drive a car!
+⚡ Fun fact: I got my pilot licence before my drivers' licence!
