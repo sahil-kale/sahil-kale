@@ -11,3 +11,6 @@ Some of the projects that you can find on here include:
 
 Outside of code, I love to go flying and share the thrill of flight with friends. At the moment, I'm working on my Soaring Association of Canada Bronze Badge to work on cross-country gliding!<br/>
 ⚡ Fun fact: I got my pilot licence before my drivers' licence!
+
+Contact Me: 
+LinkedIn: https://linkedin.com/in/sahil-kale
