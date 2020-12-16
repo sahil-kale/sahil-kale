@@ -9,7 +9,7 @@ Some of my projects that you can find on here include:
 - Hackathon Projects (most recently, a COVID smart assistant for Hackthe6ix)
 - A discord bot with over 300+ users that I led and manage the development of
 
-Outside of code, I love to go flying and share the thrill of flight with friends. At the moment, I'm working on my Soaring Association of Canada Bronze Badge to work on cross-country gliding
+Outside of code, I love to go flying and share the thrill of flight with friends. At the moment, I'm working on my Soaring Association of Canada Bronze Badge to work on cross-country gliding!<br/>
 ⚡ Fun fact: I learned how to fly airplanes before I learned how to drive a car!
 
 
