@@ -15,4 +15,4 @@ Outside of code, I love to go flying and share the thrill of flight with friends
 Contact Me:<br/> 
 LinkedIn: https://linkedin.com/in/sahil-kale
 
-![GitHub contributions](https://github-readme-stats.vercel.app/api?username=sahil-kale&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&theme=midnight-purple)
+![GitHub contributions](https://github-readme-stats.vercel.app/api?username=sahil-kale&count_private=true&show_icons=true&hide_title=true&theme=midnight-purple&hide=commits)
