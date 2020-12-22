@@ -2,7 +2,7 @@
 
 I'm a mechatronics engineering student at UWaterloo interested in embedded systems, vehicular automation, and aviation. 
 
-I'm currently working with UWARG as a firmware developer to build an autonomous aircraft for the UAS competition next summer and with UWRT as an electrical designer to help design boards for the URC 2021 competition.
+I'm currently working with UWARG as a firmware developer to build an autonomous aircraft for the Unmanned Aerial Systems competition next summer and with UWRT as an electrical designer to help design boards for the University Rover 2021 Challenge.
 
 Some of the projects that you can find on here include:
 - A teleoperated snowplow (because who wants to wake up at 6 to shovel the snow 🤔)
