@@ -5,6 +5,7 @@ I'm a mechatronics engineering student at UWaterloo interested in embedded syste
 I'm currently working with UWARG as a firmware developer to build an autonomous aircraft for the Unmanned Aerial Systems competition next summer and with UWRT as an electrical designer to help design boards for the University Rover 2021 Challenge.
 
 Some of the projects that you can find on here include:
+- A hybrid brushed/brushless motor controller with CAN & USB interfaces
 - A teleoperated snowplow (because who wants to wake up at 6 to shovel the snow 🤔)
 - Hackathon projects (most recently, a COVID smart assistant for Hackthe6ix)
 - A Python Discord bot with 3k+ users that I led and managed the development of
