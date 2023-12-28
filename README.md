@@ -6,5 +6,5 @@ Outside of figuring out where I'm missing semicolons, I love to go flying and sh
 ⚡ Fun fact: I got my pilot licence before my drivers' licence!
 
 Contact Me:<br/> 
-Website: https://sahil-kale.com/
+Website: https://sahil-kale.com/<br/> 
 LinkedIn: https://linkedin.com/in/sahil-kale
